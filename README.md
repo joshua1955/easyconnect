@@ -28,7 +28,7 @@ EasyConnect is a bash script solution that simplifies OpenConnect VPN configurat
 When running the service generator, you'll be prompted for VPN details:
 
 ```bash
-sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/snaeim/easyconnect/refs/heads/main/wizard.sh)"
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/joshua1955/easyconnect/refs/heads/main/wizard.sh)"
 ```
 
 ### Detailed Configuration Process
